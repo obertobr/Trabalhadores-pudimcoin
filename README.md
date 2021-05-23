@@ -1,7 +1,7 @@
 # Trabalhadores-pudimcoin
 um site simples que usar a api do pudimcoin para mostrar informações de quem esta minerando pudimcoin nesse exato momento.
 Como não sou um profissional na area, meu codigo não é muito limpo, então não me julguem por isso XD.
-Por enquanto o andré não liberou o ip da ip para todo mundo por isso não pude deixar ela no codigo, mas ja da pra ter uma ideia caso você queira fazer o seu proprio
+Por enquanto o andré não liberou o ip para todo mundo por isso não pude deixar ela no codigo, mas ja da pra ter uma ideia caso você queira fazer o seu proprio
 
 ## alguns dados de retorno da api para vocês conseguirem trabalhar enquanto não pode usar a api
 ### retorno da api [ip do servidor]/api/stats
