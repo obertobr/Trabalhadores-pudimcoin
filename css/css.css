@@ -1,0 +1,14 @@
+#body {
+    background-color: rgb(77, 77, 77); /* cor de fundo  */
+    color: white; /* cor da letra */
+}
+
+#titulo {
+    font-weight: 800; /* grossura da fonte do titulo */
+    font-size: 5em; /* tamanho da letra */
+}
+
+#subtexto {
+    color: rgb(117, 117, 117); /* cor da letra do rodapé da tabela */
+    margin-top: -20px; /* sobre um pouco a letra */
+}
